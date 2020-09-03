@@ -1152,11 +1152,6 @@ domain-browser@^1.1.1:
   resolved "https://registry.npmjs.org/domain-browser/-/domain-browser-1.2.0.tgz#3d31f50191a6749dd1375a7f522e823d42e54eda"
   integrity sha512-jnjyiM6eRyZl2H+W8Q/zLMA481hzi0eszAaBUzIVnmYVDBbnLxVNnfu1HgEBvCbL+71FrxMl3E6lpKH7Ge3OXA==
 
-dotenv@^8.2.0:
-  version "8.2.0"
-  resolved "https://registry.npmjs.org/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
-  integrity sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw==
-
 duplexify@^3.4.2, duplexify@^3.6.0:
   version "3.7.1"
   resolved "https://registry.npmjs.org/duplexify/-/duplexify-3.7.1.tgz#2a4df5317f6ccfd91f86d6fd25d8d8a103b88309"
@@ -3147,10 +3142,10 @@ same-origin@^0.1.1:
   resolved "https://registry.npmjs.org/same-origin/-/same-origin-0.1.1.tgz#c2287d3192577df517acbbd6d1451a9c3c3914f5"
   integrity sha1-wih9MZJXffUXrLvW0UUanDw5FPU=
 
-sapper@^0.27.0:
-  version "0.27.10"
-  resolved "https://registry.npmjs.org/sapper/-/sapper-0.27.10.tgz#72a9a2a58756a6ee1834f7c9e2600b815f4cf596"
-  integrity sha512-hbl+uE7RClCdVst2qyaPuKjZOQx/1iSMiiBPFHU4IiAucuAkZM7hIwTfYQXLOltuAYoFfAEQVV3L9PJ81f7Oig==
+sapper@^0.27.11:
+  version "0.27.11"
+  resolved "https://registry.yarnpkg.com/sapper/-/sapper-0.27.11.tgz#46877abe8a386bee62b9decfe9932fe37f5464f7"
+  integrity sha512-5EaPZhlc8OnyN3UCI6dRSM1Gz5sxyzLZG/1z5nMvZhg9Ng+rSvEvJx/rW/tSHcnQPa8or7+YcbfvQHKS5oPHiw==
   dependencies:
     html-minifier "^4.0.0"
     http-link-header "^1.0.2"
